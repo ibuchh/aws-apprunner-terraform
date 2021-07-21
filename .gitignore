@@ -1,4 +1,5 @@
 **/.terraform/**
 terraform.tfstate
 terraform.tfstate.backup
+**/target/**
 .DS_Store
